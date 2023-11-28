@@ -1,8 +1,8 @@
 code3.txt
 
-code31
+code31, hmm...
 code32
 code33
 code34
-code35
-code36
+code35, wow!!!
+code36, that's it!!!!
